@@ -43,8 +43,11 @@ Before you begin, make sure you have the following installed:
    ```bash
    pnpm start
    ```
+ 
+# Telegram Channel
 
-   
+Channel for information and training on Telegram airdrop bots | Follow us on Telegram : [SIZIFAIRDROP](https://t.me/sizifairdrop)
+
 # Discussion
 
 If you have an question or something you can ask in here : [F.Davoodi](https://t.me/sizifart)
