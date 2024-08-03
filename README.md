@@ -1,7 +1,7 @@
 # MuskEmpireBot
 🖱️ clicker for [https://t.me/muskempire_bot](https://t.me/muskempire_bot/game?startapp=hero558455838)
 
-## Recommendation before use
+
 # 🔥🔥 Use : PYTHON 3.10 🔥🔥
 
 ## Functionality
