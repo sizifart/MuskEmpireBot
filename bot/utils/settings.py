@@ -9,7 +9,7 @@ logo = """
 ███████║██║███████╗    ╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║
 ╚══════╝╚═╝╚══════╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
-X EMPIRE AUTO BOT - V 2.0
+X EMPIRE AUTO BOT - V 2.1
 Prepared and Developed by: F.Davoodi
                                                                                                                                              
                      
