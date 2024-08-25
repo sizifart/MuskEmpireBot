@@ -18,6 +18,7 @@
 | PvP negotiations                      |     ✅     |
 | Daily quiz and rebus solution         |     ✅     |
 | Investing in funds (combo for profit) |     ✅     |
+| Automatic skill improvement           |     ✅     |
 | Docker                                |     ✅     |
 
 
